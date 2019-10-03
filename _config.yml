@@ -3,7 +3,7 @@ author: buddidy
 email: buddidyKnowsU@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   nothing
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 #baseurl: /texture
 
 # Minima date format
@@ -14,7 +14,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title:  buddidy
-  tagline: be a better man
+  tagline: buddidy knows you
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
